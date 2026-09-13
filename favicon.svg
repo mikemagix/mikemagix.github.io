@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .bg { fill: #0b1020; }
+    .mark { fill: #8ab4ff; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #f6f8fc; }
+      .mark { fill: #295ee8; }
+    }
+  </style>
+  <rect class="bg" width="32" height="32" rx="8"/>
+  <path class="mark" d="M9 23V9h3.1l3.9 9.2L19.9 9H23v14h-2.9v-8.6L16.4 23h-1.8l-3.7-8.6V23H9z"/>
+</svg>
